@@ -1,4 +1,4 @@
-namespace LocadoraVeiculos.API.Models;
+namespace LocadoraVeiculos.API.Modelos;
 
 /// <summary>
 /// Cliente da locadora. Precisa ter pelo menos nome, CPF e e-mail.

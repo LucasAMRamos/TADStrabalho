@@ -1,4 +1,4 @@
-namespace LocadoraVeiculos.API.Models;
+namespace LocadoraVeiculos.API.Modelos;
 
 /// <summary>
 /// Grupo do carro: economico, SUV, premium e por ai vai.

@@ -1,11 +1,11 @@
 using System.Linq.Expressions;
 using LocadoraVeiculos.API.DTOs;
-using LocadoraVeiculos.API.Data;
-using LocadoraVeiculos.API.Models;
+using LocadoraVeiculos.API.Dados;
+using LocadoraVeiculos.API.Modelos;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace LocadoraVeiculos.API.Controllers;
+namespace LocadoraVeiculos.API.Controladores;
 
 /// <summary>CRUD dos pagamentos vinculados aos alugueis.</summary>
 [ApiController]

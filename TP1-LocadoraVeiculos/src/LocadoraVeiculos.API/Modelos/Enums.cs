@@ -1,4 +1,4 @@
-namespace LocadoraVeiculos.API.Models;
+namespace LocadoraVeiculos.API.Modelos;
 
 /// <summary>Em que pe esta o aluguel.</summary>
 public enum StatusAluguel

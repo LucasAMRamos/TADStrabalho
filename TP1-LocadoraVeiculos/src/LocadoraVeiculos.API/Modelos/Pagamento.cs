@@ -1,4 +1,4 @@
-namespace LocadoraVeiculos.API.Models;
+namespace LocadoraVeiculos.API.Modelos;
 
 /// <summary>
 /// Pagamento de um aluguel. Um aluguel pode ter mais de um.

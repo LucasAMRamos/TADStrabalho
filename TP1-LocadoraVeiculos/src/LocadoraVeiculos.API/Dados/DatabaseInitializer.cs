@@ -1,7 +1,7 @@
-using LocadoraVeiculos.API.Models;
+using LocadoraVeiculos.API.Modelos;
 using Microsoft.EntityFrameworkCore;
 
-namespace LocadoraVeiculos.API.Data;
+namespace LocadoraVeiculos.API.Dados;
 
 /// <summary>
 /// Cria o banco, se ainda nao existir, e joga alguns registros dentro

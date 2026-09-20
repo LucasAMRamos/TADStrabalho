@@ -1,4 +1,4 @@
-namespace LocadoraVeiculos.API.Models;
+namespace LocadoraVeiculos.API.Modelos;
 
 /// <summary>
 /// Aluguel de um carro por um cliente, dentro de um periodo.

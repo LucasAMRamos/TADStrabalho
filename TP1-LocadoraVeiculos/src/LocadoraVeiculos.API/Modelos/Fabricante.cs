@@ -1,4 +1,4 @@
-namespace LocadoraVeiculos.API.Models;
+namespace LocadoraVeiculos.API.Modelos;
 
 /// <summary>
 /// Marca do carro, tipo Fiat ou Toyota. Uma marca tem varios veiculos.

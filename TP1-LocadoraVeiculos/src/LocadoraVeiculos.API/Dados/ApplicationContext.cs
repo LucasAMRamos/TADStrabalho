@@ -1,7 +1,7 @@
-using LocadoraVeiculos.API.Models;
+using LocadoraVeiculos.API.Modelos;
 using Microsoft.EntityFrameworkCore;
 
-namespace LocadoraVeiculos.API.Data;
+namespace LocadoraVeiculos.API.Dados;
 
 /// <summary>
 /// Contexto do EF Core: liga as classes C# as tabelas do SQL Server.

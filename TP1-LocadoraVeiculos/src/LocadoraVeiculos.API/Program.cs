@@ -1,6 +1,6 @@
 using System.Reflection;
 using System.Text.Json.Serialization;
-using LocadoraVeiculos.API.Data;
+using LocadoraVeiculos.API.Dados;
 using LocadoraVeiculos.API.Middlewares;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;

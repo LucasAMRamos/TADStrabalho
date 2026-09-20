@@ -1,10 +1,10 @@
 using LocadoraVeiculos.API.DTOs;
-using LocadoraVeiculos.API.Data;
-using LocadoraVeiculos.API.Models;
+using LocadoraVeiculos.API.Dados;
+using LocadoraVeiculos.API.Modelos;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace LocadoraVeiculos.API.Controllers;
+namespace LocadoraVeiculos.API.Controladores;
 
 /// <summary>CRUD das filiais (lojas) da locadora.</summary>
 [ApiController]

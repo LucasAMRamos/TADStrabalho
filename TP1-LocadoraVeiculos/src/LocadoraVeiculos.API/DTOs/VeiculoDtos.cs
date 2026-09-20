@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-using LocadoraVeiculos.API.Models;
+using LocadoraVeiculos.API.Modelos;
 
 namespace LocadoraVeiculos.API.DTOs;
 
