@@ -1,0 +1,24 @@
+## Arquivos gerados pelo build do .NET
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.DotSettings.user
+
+## Banco de dados local
+*.mdf
+*.ldf
+*.ndf
+
+## Logs e pacotes
+*.log
+packages/
